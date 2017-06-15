@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "CKComponentFadeTransition"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "A ComponentKit extension to add fade transitions."
 
   s.description  = <<-DESC

@@ -16,7 +16,6 @@
  */
 + (instancetype)newWithURL:(NSURL *)url
            imageDownloader:(id<CKNetworkImageDownloading>)imageDownloader
-                 scenePath:(id)scenePath
                       size:(const CKComponentSize &)size
                    options:(const CKNetworkImageComponentOptions &)options
                 attributes:(const CKViewComponentAttributeValueMap &)attributes
